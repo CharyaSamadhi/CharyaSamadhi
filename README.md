@@ -10,7 +10,7 @@
 ### 🌱 Currently Learning
 - 🎓 **BSc (Hons) in Data Science at SLIIT**
 
-- 📊 Data Tools & Platforms: Python, Pandas, SQL, AWS, Microsoft Azure
+- 📊 Data Tools & Platforms: Python, Machine learning, R, SQL, AWS, Microsoft Azure
 
 ---
 
