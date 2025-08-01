@@ -15,7 +15,7 @@
 ---
 
 ### 📫 Contact Me
-- 📧 **Email:** charyaelvitigala1@gmail.com
+- 📧 **Email:** charyaelvitigala@gmail.com
 <!-- Optional social links -->
 <!-- - 💼 [LinkedIn](#) -->
 <!-- - 🌐 [Portfolio Website](#) -->
